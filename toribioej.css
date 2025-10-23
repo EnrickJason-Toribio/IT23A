@@ -1,0 +1,13 @@
+header {
+    text-align: left;
+    padding: 10px;
+    background-color: lightblue;
+    color: black;
+    font-size: 10px;
+    font: arial, bold;
+}
+body {
+    background-color: beige;
+    margin: 0;
+    text-align: center;
+}
